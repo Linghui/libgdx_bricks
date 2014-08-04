@@ -1,0 +1,13 @@
+
+uiskin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+baikuangbj
+  rotate: false
+  xy: 1, 1
+  size: 18, 18
+  split: 9, 8, 8, 9
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

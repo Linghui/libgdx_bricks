@@ -1,0 +1,82 @@
+
+drop.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 22, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 43, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 64, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 85, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 106, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 127, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 148, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 169, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 190, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 211, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
